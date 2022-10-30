@@ -39,15 +39,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['628816701320', 'wahyu animek', true],
-['6282146218274', 'Riell', true]
+['6281143802223', 'nikenCans', true],
+['6282146218274', 'RiellGanzz', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6283813417529'
 global.nomorown = '6282146218274'
 global.nomorown1 = '6282146218274'
-global.nomorown2 = '628816701320'
+global.nomorown2 = '6281143802223'
 global.nomorwa = '0'
 
 
@@ -56,21 +56,21 @@ global.nomorwa = '0'
 global.readMore = readMore
 global.author = 'Created By Riell X wahyu animek'
 global.namebot = 'Khurushi Md'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Riell X Wahyu animek'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 RiellXd X NikenXd'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'Rɪᴇʟʟ X Wᴀʜʏᴜ ᴀɴɪᴍᴇᴋ'
+global.wm2 = 'Rɪᴇʟʟɢᴀɴᴢᴢ X NɪᴋᴇɴCᴀɴs'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Rɪᴇʟʟ X Wᴀʜʏᴜ ᴀɴɪᴍᴇᴋ`
-global.stickpack = 'Rɪᴇʟʟ X Wᴀʜʏᴜ ᴀɴɪᴍᴇᴋ'
-global.stickauth = `Rɪᴇʟʟ X Wᴀʜʏᴜ ᴀɴɪᴍᴇᴋ`
+global.titlebot = `Rɪᴇʟʟɢᴀɴᴢᴢ X NɪᴋᴇɴCᴀɴs`
+global.stickpack = 'Rɪᴇʟʟɢᴀɴᴢᴢ X NɪᴋᴇɴCᴀɴs'
+global.stickauth = `ᴍᴀᴅᴇ ᴡɪᴛʜ ➪ Rɪᴇʟʟɢᴀɴᴢᴢ X NɪᴋᴇɴCᴀɴs`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Riell'
-global.nameown2 = 'ayuugirl'
+global.nameown1= 'RɪᴇʟʟXᴅ'
+global.nameown2 = 'ɴɪᴋᴇɴXᴅ'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
