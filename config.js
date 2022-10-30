@@ -39,7 +39,7 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281143802223', 'nikenCans', true],
+['6282146218274', 'riellGanzz', true],
 ['6282146218274', 'RiellGanzz', true]
 ]
 global.mods = []
@@ -47,7 +47,7 @@ global.prems = []
 global.nomorbot = '6283813417529'
 global.nomorown = '6282146218274'
 global.nomorown1 = '6282146218274'
-global.nomorown2 = '6281143802223'
+global.nomorown2 = '6282146218274'
 global.nomorwa = '0'
 
 
@@ -65,12 +65,12 @@ global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `Rɪᴇʟʟɢᴀɴᴢᴢ X NɪᴋᴇɴCᴀɴs`
 global.stickpack = 'Rɪᴇʟʟɢᴀɴᴢᴢ X NɪᴋᴇɴCᴀɴs'
-global.stickauth = `ᴍᴀᴅᴇ ᴡɪᴛʜ ➪ Rɪᴇʟʟɢᴀɴᴢᴢ X NɪᴋᴇɴCᴀɴs`
+global.stickauth = `ᴍᴀᴅᴇ ᴡɪᴛʜ ➪ Rɪᴇʟʟɢᴀɴᴢᴢ X Wᴀʜʏᴜ ᴀɴɪᴍᴇᴋ🤍`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= 'RɪᴇʟʟXᴅ'
-global.nameown2 = 'ɴɪᴋᴇɴXᴅ'
+global.nameown2 = 'ʀɪᴇʟʟXᴅ'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
